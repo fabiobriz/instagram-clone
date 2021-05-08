@@ -8,6 +8,8 @@ Tive dificuldade em fazer com que o "< hr >" aceitasse um conteúdo dentro da li
 
 :rocket: ** Futuramente, vou adicionar algumas transições de figuras dentro do display do smartphone exibido. ** :rocket:
 
+https://fabiobriz.github.io/instagram-clone/
+
 
 
 
